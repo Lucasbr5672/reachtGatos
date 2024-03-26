@@ -1,0 +1,23 @@
+.meuHeader{
+    text-align: center;
+    background-color:#EB6440;
+    height: 65px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+p{
+    flex: 1;
+    list-style: none;
+    text-align: center;
+   
+}
+
+footer{
+    background-color:#ffffff;
+    color: rgb(0, 0, 0);
+    padding: 25px 0;
+    text-align: center;
+}
+
